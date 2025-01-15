@@ -19,3 +19,6 @@ early checkup of the possible conditions based on given symptoms.
 The expected outcome of the project is to help users make
 informed decisions when scheduling clinic appointments and to ease the management
 of patients’ medical records
+
+Note:
+Adjust file in (application/config/email.php) according to your API credential
